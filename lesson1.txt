@@ -5,4 +5,6 @@ oops concept
  polymorphism
  data abstraction
  data encapsulation
+ message passing
+ inheritance
   
