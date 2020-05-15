@@ -1,0 +1,8 @@
+oops concept
+
+ object
+ class
+ polymorphism
+ data abstraction
+ data encapsulation
+  
