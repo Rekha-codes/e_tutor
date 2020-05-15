@@ -14,6 +14,7 @@
  local rep --connected -- server rep
  
 ## Git operations and commands
+* $git init 
 
 * $ git remote add origin "link of git" 
  
