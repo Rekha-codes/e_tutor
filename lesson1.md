@@ -1,2 +1,3 @@
 oops concept
-polymorhism
+
+Inheritance
